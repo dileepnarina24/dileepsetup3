@@ -1,2 +1,3 @@
 # dileepsetup3
-The error message "src refspec master does not match any" typically indicates that the branch you're trying to push (master) doesn't exist in your local repository. This could be because you haven't committed any changes yet, or because your branch is named something different (like main instead of master). Here's how you can resolve this issue:
+A leader is someone who has a powerful intellect and not mere intellect. Leadership is a skill that not everyone is blessed with, a skill that allows an individual to lead people for the greater good of society. Leadership can not be learned or taught but it is a skill that is developed through time.
+Leadership is a quality that gives you an edge over others. Leaders are public figures and guide and inspire the people around on various things. A great leader possesses a number of qualities that make him popular. Leadership is one quality that is possessed by only selected few.
